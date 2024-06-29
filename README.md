@@ -17,6 +17,10 @@ Instagram: https://www.instagram.com/saraswat_armaan
 - Timer to track the time spent on each quiz
 - Responsive design for optimal user experience on different devices
 - Option to save and resume quizzes at a later time
+- Detailed scorecard with correct and incorrect answers
+- Customizable quiz settings to suit different needs
+- Easy to use and navigate
+- Fun and engaging way to test knowledge and skills
 
 ## Deployment
 
